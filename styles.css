@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: rgb(189, 225, 122);
+    background-color: rgb(200, 150, 100);
 }
 
 #noButton {
@@ -17,6 +17,11 @@ body {
     margin-right: 200px;
 }
 
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 .header_text {
     font-family: 'Shadows Into Light';
     font-size: 50px;
