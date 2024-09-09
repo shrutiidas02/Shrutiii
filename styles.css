@@ -22,15 +22,6 @@ body {
   font-weight: 400;
   font-style: normal;
 }
-.header_text {
-    font-family: 'Shadows Into Light';
-    font-size: 50px;
-    font-weight: bold;
-    color: rgb(100, 150, 200);
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 0;
-}
 
 .buttons {
     display: flex;
