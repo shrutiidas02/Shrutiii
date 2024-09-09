@@ -3,24 +3,17 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(255, 225, 100);
+    background-color: rgb(189, 225, 122);
 }
 
-<html>
-  <head>
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Crimson+Pro">
-    <style>
-      body {
-        font-family: 'Crimson Pro', serif;
-        font-size: 48px;
-      }
-    </style>
-  </head>
-  <body>
-    <div>Making the Web Beautiful!</div>
-  </body>
-</html>
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
 
 .gif_container {
