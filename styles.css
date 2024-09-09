@@ -8,20 +8,20 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 150px;
+    margin-left: 200px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 150px;
+    margin-right: 200px;
 }
 
 .header_text {
-    font-family: 'Nunito';
-    font-size: 40px;
+    font-family: 'Shadows Into Light';
+    font-size: 50px;
     font-weight: bold;
-    color: rgb(255, 255, 255);
+    color: rgb(100, 150, 200);
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0;
